@@ -8,4 +8,4 @@ python -m build
 
 
 # Upload
-twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+twine upload --repository-url https://test.pypi.org/ dist/*
