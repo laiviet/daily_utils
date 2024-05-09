@@ -1,7 +1,9 @@
 #!/bin/zsh
 
-# Build
+git add -u
+git commit -m "Update"
 
+# Build
 python -m build
 
 
